@@ -7,11 +7,11 @@ P-tuning is a method for understanding language tasks using models. It's a type 
 
 ## Model
 
-RoBERTa-large : It is a large-scale pre-trained language model developed by Facebook AI. It's based on the BERT architecture but trained on a larger corpus for longer, with more varied data sources and without certain pre-training tasks. This results in improved performance on various natural language processing tasks compared to its predecessor.
+**RoBERTa-large:** It is a large-scale pre-trained language model developed by Facebook AI. It's based on the BERT architecture but trained on a larger corpus for longer, with more varied data sources and without certain pre-training tasks. This results in improved performance on various natural language processing tasks compared to its predecessor.
 
 ## dataset
 
-MRPC subset of GLUE : The GLUE (General Language Understanding Evaluation) benchmark is a collection of diverse natural language understanding tasks aimed at evaluating the performance of models across various NLP tasks. MRPC (Microsoft Research Paraphrase Corpus) is one of the datasets included in GLUE. It consists of sentence pairs extracted from news articles, where each pair is labeled as either a paraphrase or non-paraphrase. This dataset is commonly used for tasks such as paraphrase identification and evaluation of model performance on sentence similarity.
+**MRPC subset of GLUE:** The GLUE (General Language Understanding Evaluation) benchmark is a collection of diverse natural language understanding tasks aimed at evaluating the performance of models across various NLP tasks. MRPC (Microsoft Research Paraphrase Corpus) is one of the datasets included in GLUE. It consists of sentence pairs extracted from news articles, where each pair is labeled as either a paraphrase or non-paraphrase. This dataset is commonly used for tasks such as paraphrase identification and evaluation of model performance on sentence similarity.
 
 ## libraries used
 
